@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokeneender",
+        "uuid": 13800270,
+        "checksum": "nlfa7b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
